@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UsbDevices</string>
+    <string name="host_prompt"><![CDATA[host > ]]></string>
+    <string name="device_prompt"><![CDATA[device > ]]></string>
+    <string name="data_transfer">Data Transfer</string>
+    <string name="et_hint">Please enter what you want to send</string>
+    <string name="send">Send</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Usb通信</string>
+    <string name="host_prompt"><![CDATA[主机 > ]]></string>
+    <string name="device_prompt"><![CDATA[设备 > ]]></string>
+    <string name="data_transfer">数据传输</string>
+    <string name="et_hint">请输入要发送的内容</string>
+    <string name="send">发送</string>
+</resources>
