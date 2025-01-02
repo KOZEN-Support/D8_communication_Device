@@ -615,10 +615,7 @@ public void setReceiveListener(IXcUsbListener listener) {
   }
 
 }
-sector 0 block 0: 7afbddc19d080400014cf1ecd4c6e71d
-sector 0 block 1: 140103e103e103e103e103e103e103e1
-sector 0 block 2: 03e103e103e103e103e103e103e103e1
-sector 0 block 3: 000000000000787788c1000000000000
+
 ```
 
 ##### How to use the interface
